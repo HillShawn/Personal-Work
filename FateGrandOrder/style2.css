@@ -1,0 +1,17 @@
+/* table cell css */
+table{
+    background-color: rgba(300, 300, 300, 0.7);
+}
+
+/*background image*/
+#background_wrap {
+    z-index: -1;
+    position: fixed;
+    top: 0;
+    background-position-x: 50%;
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-image: url('https://sensortower-itunes.s3.amazonaws.com/blog/2020/01/fate-grand-order-surpasses-4-billion-revenue.jpg');
+    background-repeat: no-repeat;
+}
